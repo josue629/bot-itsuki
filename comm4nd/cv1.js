@@ -2,16 +2,14 @@ exports.wpp = (pushname) => {
    return `╭━━━━━「 🔷 *𝙄𝙉𝙁𝙊 𝘿𝙊 𝘽𝙊𝙏* 🔷 」
 ┃✧𝙲𝚁𝙸𝙰𝙳𝙾𝚁:Madarão
 ┃✧𝙿𝚁𝙴𝙵𝙸𝚇𝙾: ${prefix}
-┃✧𝙲𝚁𝙸𝙰𝙳𝙾𝚁:wa.me/5582981551124
+┃✧𝙲𝚁𝙸𝙰𝙳𝙾𝚁:wa.me/51917012705
 ┃✧ɴ° ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs:447
 ┃✧Madarão-bot
 ┃✧𝙷𝙾𝚁𝙰𝚁𝙸𝙾: segunda a sexta
 ╰━━━々
 ╭━━━━━「🔷 *REDES SOCIAIS*🔷」
 ┃✧ᴄᴀɴᴀʟ ᴅᴏ ᴄʀɪᴀᴅᴏʀ✧
-┃✧https://youtube.com/channel/UC7frIuDpAIo9smTMU3pMZaw
-┃✧ᴄʜᴀᴛ✧
-┃✧https://chat.whatsapp.com/DFYmbl6hp82HxrfR4fefuZ
+┃✧https://www.youtube.com/channel/UC_Z_d0qVKXA-6J1mLGwVSHg
 ╰━━━々
 ╭━━━━━「🔷 *NOVOS*🔷」
 ┃✧${prefix}dono
